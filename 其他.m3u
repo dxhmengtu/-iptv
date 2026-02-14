@@ -61,8 +61,6 @@ https://hplayer1.juyun.tv/camera/154379194.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://live.fanmingming.cn/tv/Astro QJ.png" group-title="其他",Astro QJ
 http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://live.fanmingming.cn/tv/Astro欢喜台.png" group-title="其他",Astro欢喜台
-http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 tvg-name="BBC" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png" group-title="其他",BBC
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tvg-name="Beautiful Life TV" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="其他",Beautiful Life TV
@@ -93,8 +91,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="Dali TV (大立電視台) (720p)" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="其他",Dali TV (大立電視台) (720p)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-name="EBC YOYO" tvg-logo="https://i.imgur.com/k4fhcPl.png" group-title="其他",EBC YOYO
-https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
 #EXTINF:-1 tvg-name="ET Mall 60" tvg-logo="https://i.imgur.com/jkOgbLw.png" group-title="其他",ET Mall 60
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 #EXTINF:-1 tvg-name="FTV News" tvg-logo="https://i.imgur.com/fEUmRST.png" group-title="其他",FTV News
@@ -149,8 +145,6 @@ http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
 #EXTINF:-1 tvg-name="QTV-4" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv4.jpg" group-title="其他",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
-#EXTINF:-1 tvg-name="QTV-5" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv5.jpg" group-title="其他",QTV-5
-http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 #EXTINF:-1 tvg-name="QTV-6" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg" group-title="其他",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 #EXTINF:-1 tvg-name="RT Arabic（阿语）" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png" group-title="其他",RT Arabic（阿语）
@@ -177,6 +171,8 @@ http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-name="Supreme Master TV (720p)" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="其他",Supreme Master TV (720p)
 https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 tvg-name="TTV News" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="其他",TTV News
+https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
 #EXTINF:-1 tvg-name="TV BRICS Chinese (1080p)" tvg-logo="https://i.imgur.com/896132Z.png" group-title="其他",TV BRICS Chinese (1080p)
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 tvg-name="Taiwan Plus TV" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="其他",Taiwan Plus TV
